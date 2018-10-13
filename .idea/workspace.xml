@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="208514ff-51c4-4160-8564-5a295d858c75" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_project/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobs/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio_project/static/Ein14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio_project/static/ein15.gif" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,13 +46,13 @@
           <entry key="gitignore" value="8" />
           <entry key="html" value="834" />
           <entry key="py" value="1412" />
-          <entry key="txt" value="111" />
+          <entry key="txt" value="131" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="834" />
-          <entry key="PLAIN_TEXT" value="119" />
+          <entry key="PLAIN_TEXT" value="139" />
           <entry key="Python" value="1446" />
         </counts>
       </usages-collector>
@@ -103,8 +105,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/portfolio_project/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="140" column="8" selection-start-line="140" selection-start-column="8" selection-end-line="140" selection-end-column="8" />
+            <state relative-caret-position="408">
+              <caret line="87" column="1" lean-forward="true" selection-start-line="78" selection-end-line="87" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -287,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1539455380773</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added local support">
+      <created>1539456819644</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1539456819644</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -301,7 +310,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2549234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -360,7 +368,8 @@
     <MESSAGE value="Added Bootstrap and job show" />
     <MESSAGE value="Before upload" />
     <MESSAGE value="Change Password" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change Password" />
+    <MESSAGE value="Added local support" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added local support" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -477,8 +486,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio_project/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="140" column="8" selection-start-line="140" selection-start-column="8" selection-end-line="140" selection-end-column="8" />
+        <state relative-caret-position="408">
+          <caret line="87" column="1" lean-forward="true" selection-start-line="78" selection-end-line="87" selection-end-column="1" />
         </state>
       </provider>
     </entry>
